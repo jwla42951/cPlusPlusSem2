@@ -3,6 +3,6 @@ project(excercice2)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(excercice2 src/main.cpp src/Options.cpp src/Options.h)
+add_executable(excercice2 source/main.cpp source/Options.cpp source/Options.h)
 
 set(CMAKE_EXE_LINKER_FLAGS "-static")
