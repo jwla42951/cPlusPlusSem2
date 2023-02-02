@@ -1,8 +1,5 @@
 # ninja log v5
-1837	2940	6970467460361967	excercice2.exe	a6111fbeff395906
-7	1755	6970414508807641	CMakeFiles/excercice2.dir/src/Options.cpp.obj	a2355c15cd595423
-7	1835	6970467449541974	CMakeFiles/excercice2.dir/src/main.cpp.obj	3c0bcc801e00a0b7
-2	444	6970503615173617	build.ninja	4d24a97df7dec3a4
+1791	2691	6970504261940803	excercice2.exe	a6111fbeff395906
 16	1440	6970504249040797	CMakeFiles/excercice2.dir/src/Options.cpp.obj	dfa397ee64b37108
 7	1790	6970504253030806	CMakeFiles/excercice2.dir/src/main.cpp.obj	ebd64c4c4f08ae62
-1791	2691	6970504261940803	excercice2.exe	a6111fbeff395906
+2	444	6970508249138504	build.ninja	4d24a97df7dec3a4
