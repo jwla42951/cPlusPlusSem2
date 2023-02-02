@@ -1,8 +1,7 @@
 /*
- * Options.cpp
  *
- *  Created on: 7 Jul 2016
- *      Author: klaus
+ *
+ *
  */
 
 #include "Options.h"
